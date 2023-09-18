@@ -7,3 +7,4 @@
 - 👯 I’m looking to collaborate on iOS Projects
 - 💬 Ask me about Swift and SwiftUI
 - 📫 How to reach me: aitolkun.anarbekovna@gmail.com
+- ![https://www.linkedin.com/in/aitolkun/](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white) https://www.linkedin.com/in/aitolkun/
